@@ -27,7 +27,7 @@ Default access for admin:
 - Password: password
 
 #### Tech
-Project are built on following technologies:
+Project is built on following technologies:
 
 * [Angular 2] - Good tools make application development quicker and easier to maintain than if you did everything by hand.
 * [angular2-masonry] - Masonry is a JavaScript grid layout library.
